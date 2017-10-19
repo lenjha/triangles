@@ -1,0 +1,27 @@
+body {
+  font-family: 'VT323', monospace;
+  background-color: #000000;
+  color: #00db07;
+}
+
+form {
+  text-align: center;
+  font-size: 40px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+}
+
+.btn {
+  background-color: #000000;
+  border-color: #00db07;
+  color:#00db07;
+  font-size: 200px;
+  margin-top: 150px;
+}
+
+.jumbotron {
+  background-color: blue;
+}
